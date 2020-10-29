@@ -16,6 +16,7 @@ public class Player : MonoBehaviour
         Debug.Log("liwei修改");
         Debug.Log("liwei再次修改了");
         Debug.Log("hujiahui又修改了");
+        Debug.Log("hujiahui用git了");
     }
 
     // Update is called once per frame
